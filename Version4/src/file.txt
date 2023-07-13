@@ -1,0 +1,8 @@
+Orange-Juice,10000,s1.20 
+Apple-Juice,12000,1.15
+Notebook,20000,3.00
+Porridge,15000,2.40
+Orange-Juice,10000,1.20
+Strawberries,13000,3.50
+Pineapple,12000,2.45
+Strawberries,13000,3.50
